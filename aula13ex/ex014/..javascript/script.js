@@ -1,5 +1,5 @@
 
-    function carregar(){
+    function carregar(){ //Criar uma função
         var msg = window.document.getElementById('msg') //Criei uma variável pegando o valor do id "msg" do HTML
         var img = window.document.getElementById('imagem') //Criei uma caviável pegando o valor do id "imagem" do HTML
         var data = new Date() //Variável para pegar hora atual
